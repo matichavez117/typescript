@@ -1,2 +1,2 @@
-//Poner el codigo aqui para parcticar
+//Poner el código aqui para practicar
 console.log("Hola")
